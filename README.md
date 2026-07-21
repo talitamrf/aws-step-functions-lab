@@ -79,6 +79,3 @@ O AWS Step Functions demonstrou ser uma ferramenta eficiente para orquestrar pro
 Este laboratório contribuiu para consolidar os conceitos de automação de workflows e integração entre serviços em ambientes de computação em nuvem.
 
 ---
-**Talita Maria Rodrigues Fernandes**
-
-Desenvolvido durante o Boot
